@@ -2,7 +2,7 @@
 
 An ML project that downloads a Spotify tracks dataset, builds 3D embeddings with **UMAP**, and renders an **interactive Plotly 3D explorer** you can open right in your browser.  
 
-![Demo Screenshot](docs/demo.png) <!-- optional: add later -->
+![Demo Video](Spotify Project.png) <!-- optional: add later -->
 
 ---
 
