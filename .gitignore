@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# VSCode/IDE
+.vscode/
+.idea/
+
+# Build artifacts
+artifacts/
+*.html
+*.csv
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
